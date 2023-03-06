@@ -1,0 +1,16 @@
+PODS:
+  - RBSlider (1.0.0)
+
+DEPENDENCIES:
+  - RBSlider (from `.`)
+
+EXTERNAL SOURCES:
+  RBSlider:
+    :path: "."
+
+SPEC CHECKSUMS:
+  RBSlider: 1c47f012f9695724389744b8e5cbfa4304bd5103
+
+PODFILE CHECKSUM: 99844838c1af0c132dc4c98f1340fafeb577f73c
+
+COCOAPODS: 1.11.3
